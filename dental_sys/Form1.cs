@@ -15,17 +15,58 @@ namespace dental_sys
         public Form1()
         {
             InitializeComponent();
+            txt_Password.UseSystemPasswordChar = true;
+
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
+
             guna2ShadowForm1.SetShadowForm(this);
         }
 
         private void guna2Button1_Click(object sender, EventArgs e)
         {
+            // Hide the current form (Form1)
+            this.Hide();
+
+            // Show the Loading form
             Loading _load = new Loading();
             _load.Show();
+        }
+
+        private void guna2Panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void lb_Close_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void lb_Close_MouseHover(object sender, EventArgs e)
+        {
+            lb_Close.BackColor = Color.Red;
+        }
+
+        private void lb_Close_MouseLeave(object sender, EventArgs e)
+        {
+            lb_Close.BackColor = DefaultBackColor;
+        }
+
+        private void cb_showPass_CheckedChanged(object sender, EventArgs e)
+        {
+            if (cb_showPass.Checked)
+            {
+                txt_Password.UseSystemPasswordChar = false;
+                txt_Password.PasswordChar = '\0'; // Hiển thị mật khẩu
+            }
+            else
+            {
+                txt_Password.UseSystemPasswordChar = true;
+                txt_Password.PasswordChar = '●'; // Ẩn mật khẩu
+            }
         }
     }
 }
