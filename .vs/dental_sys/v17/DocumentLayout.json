@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{29798AD8-30B0-4AE5-B5FF-9FA7FD4F7CFC}|dental_sys\\dental_sys.csproj|d:\\myworkspace\\qlnhakhoa2025\\dental-system-c\\dental_sys\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29798AD8-30B0-4AE5-B5FF-9FA7FD4F7CFC}|dental_sys\\dental_sys.csproj|solutionrelative:dental_sys\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{29798AD8-30B0-4AE5-B5FF-9FA7FD4F7CFC}|dental_sys\\dental_sys.csproj|d:\\myworkspace\\qlnhakhoa2025\\dental-system-c\\dental_sys\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{29798AD8-30B0-4AE5-B5FF-9FA7FD4F7CFC}|dental_sys\\dental_sys.csproj|solutionrelative:dental_sys\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +58,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Loading.cs [Design]",
+              "DocumentMoniker": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Loading.cs",
+              "RelativeDocumentMoniker": "dental_sys\\Loading.cs",
+              "ToolTip": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Loading.cs [Design]",
+              "RelativeToolTip": "dental_sys\\Loading.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:04:09.962Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "dental_sys\\Form1.Designer.cs",
@@ -66,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Messages.cs [Design]",
               "DocumentMoniker": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Messages.cs",
               "RelativeDocumentMoniker": "dental_sys\\Messages.cs",
@@ -77,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Principal.cs",
               "DocumentMoniker": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Principal.cs",
               "RelativeDocumentMoniker": "dental_sys\\Principal.cs",
@@ -90,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Dashboard.Designer.cs",
               "DocumentMoniker": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Dashboard.Designer.cs",
               "RelativeDocumentMoniker": "dental_sys\\Dashboard.Designer.cs",
@@ -102,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Principal.cs [Design]",
               "DocumentMoniker": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Principal.cs",
               "RelativeDocumentMoniker": "dental_sys\\Principal.cs",
@@ -114,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Dashboard.cs",
               "DocumentMoniker": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Dashboard.cs",
               "RelativeDocumentMoniker": "dental_sys\\Dashboard.cs",
@@ -126,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Form1.cs",
               "RelativeDocumentMoniker": "dental_sys\\Form1.cs",
@@ -138,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Form1.cs",
               "RelativeDocumentMoniker": "dental_sys\\Form1.cs",
@@ -149,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Dashboard.cs [Design]",
               "DocumentMoniker": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Dashboard.cs",
               "RelativeDocumentMoniker": "dental_sys\\Dashboard.cs",
