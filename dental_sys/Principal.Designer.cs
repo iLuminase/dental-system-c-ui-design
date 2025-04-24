@@ -135,9 +135,9 @@
             this.label2.ForeColor = System.Drawing.Color.Gray;
             this.label2.Location = new System.Drawing.Point(60, 727);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(40, 13);
+            this.label2.Size = new System.Drawing.Size(42, 13);
             this.label2.TabIndex = 11;
-            this.label2.Text = "Dentist";
+            this.label2.Text = "Nha Sĩ";
             // 
             // label1
             // 
@@ -145,9 +145,9 @@
             this.label1.Font = new System.Drawing.Font("Bahnschrift", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(60, 709);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(89, 13);
+            this.label1.Size = new System.Drawing.Size(122, 13);
             this.label1.TabIndex = 10;
-            this.label1.Text = "Dr A Mohammed";
+            this.label1.Text = "Alexander Cutonhuphic";
             // 
             // guna2CirclePictureBox1
             // 
