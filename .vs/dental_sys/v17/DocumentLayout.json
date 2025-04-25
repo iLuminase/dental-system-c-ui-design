@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29798AD8-30B0-4AE5-B5FF-9FA7FD4F7CFC}|dental_sys\\dental_sys.csproj|d:\\myworkspace\\qlnhakhoa2025\\dental-system-c\\dental_sys\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{29798AD8-30B0-4AE5-B5FF-9FA7FD4F7CFC}|dental_sys\\dental_sys.csproj|solutionrelative:dental_sys\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29798AD8-30B0-4AE5-B5FF-9FA7FD4F7CFC}|dental_sys\\dental_sys.csproj|d:\\myworkspace\\qlnhakhoa2025\\dental-system-c\\dental_sys\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{29798AD8-30B0-4AE5-B5FF-9FA7FD4F7CFC}|dental_sys\\dental_sys.csproj|solutionrelative:dental_sys\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -15,32 +11,8 @@
       "RelativeMoniker": "D:0:0:{29798AD8-30B0-4AE5-B5FF-9FA7FD4F7CFC}|dental_sys\\dental_sys.csproj|solutionrelative:dental_sys\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29798AD8-30B0-4AE5-B5FF-9FA7FD4F7CFC}|dental_sys\\dental_sys.csproj|D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{29798AD8-30B0-4AE5-B5FF-9FA7FD4F7CFC}|dental_sys\\dental_sys.csproj|solutionrelative:dental_sys\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29798AD8-30B0-4AE5-B5FF-9FA7FD4F7CFC}|dental_sys\\dental_sys.csproj|D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{29798AD8-30B0-4AE5-B5FF-9FA7FD4F7CFC}|dental_sys\\dental_sys.csproj|solutionrelative:dental_sys\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29798AD8-30B0-4AE5-B5FF-9FA7FD4F7CFC}|dental_sys\\dental_sys.csproj|D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29798AD8-30B0-4AE5-B5FF-9FA7FD4F7CFC}|dental_sys\\dental_sys.csproj|solutionrelative:dental_sys\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29798AD8-30B0-4AE5-B5FF-9FA7FD4F7CFC}|dental_sys\\dental_sys.csproj|D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29798AD8-30B0-4AE5-B5FF-9FA7FD4F7CFC}|dental_sys\\dental_sys.csproj|solutionrelative:dental_sys\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29798AD8-30B0-4AE5-B5FF-9FA7FD4F7CFC}|dental_sys\\dental_sys.csproj|D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{29798AD8-30B0-4AE5-B5FF-9FA7FD4F7CFC}|dental_sys\\dental_sys.csproj|solutionrelative:dental_sys\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29798AD8-30B0-4AE5-B5FF-9FA7FD4F7CFC}|dental_sys\\dental_sys.csproj|D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29798AD8-30B0-4AE5-B5FF-9FA7FD4F7CFC}|dental_sys\\dental_sys.csproj|solutionrelative:dental_sys\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29798AD8-30B0-4AE5-B5FF-9FA7FD4F7CFC}|dental_sys\\dental_sys.csproj|D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29798AD8-30B0-4AE5-B5FF-9FA7FD4F7CFC}|dental_sys\\dental_sys.csproj|solutionrelative:dental_sys\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,121 +30,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Loading.cs [Design]",
-              "DocumentMoniker": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Loading.cs",
-              "RelativeDocumentMoniker": "dental_sys\\Loading.cs",
-              "ToolTip": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Loading.cs [Design]",
-              "RelativeToolTip": "dental_sys\\Loading.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "Messages.cs [Design]",
+              "DocumentMoniker": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Messages.cs",
+              "RelativeDocumentMoniker": "dental_sys\\Messages.cs",
+              "ToolTip": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Messages.cs [Design]",
+              "RelativeToolTip": "dental_sys\\Messages.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T16:04:09.962Z",
+              "WhenOpened": "2025-04-24T16:33:36.542Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "dental_sys\\Form1.Designer.cs",
-              "ToolTip": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Form1.Designer.cs",
-              "RelativeToolTip": "dental_sys\\Form1.Designer.cs",
-              "ViewState": "AgIAAM0AAAAAAAAAAIAzwNoAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T11:27:24Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Messages.cs [Design]",
-              "DocumentMoniker": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Messages.cs",
-              "RelativeDocumentMoniker": "dental_sys\\Messages.cs",
-              "ToolTip": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c-ui-design\\dental_sys\\Messages.cs [Design]",
-              "RelativeToolTip": "..\\dental-system-c-ui-design\\dental_sys\\Messages.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T11:25:29.118Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Principal.cs",
               "DocumentMoniker": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Principal.cs",
               "RelativeDocumentMoniker": "dental_sys\\Principal.cs",
               "ToolTip": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Principal.cs",
               "RelativeToolTip": "dental_sys\\Principal.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAIwB4AAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T11:21:21.825Z",
+              "WhenOpened": "2025-04-24T16:32:44.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Dashboard.Designer.cs",
-              "DocumentMoniker": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Dashboard.Designer.cs",
-              "RelativeDocumentMoniker": "dental_sys\\Dashboard.Designer.cs",
-              "ToolTip": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Dashboard.Designer.cs",
-              "RelativeToolTip": "dental_sys\\Dashboard.Designer.cs",
-              "ViewState": "AgIAAMUAAAAAAAAAAAAuwNYAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T10:59:59.08Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Principal.cs [Design]",
               "DocumentMoniker": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Principal.cs",
               "RelativeDocumentMoniker": "dental_sys\\Principal.cs",
               "ToolTip": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Principal.cs [Design]",
               "RelativeToolTip": "dental_sys\\Principal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T10:59:01.869Z",
+              "WhenOpened": "2025-04-24T16:32:35.615Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Dashboard.cs",
-              "DocumentMoniker": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Dashboard.cs",
-              "RelativeDocumentMoniker": "dental_sys\\Dashboard.cs",
-              "ToolTip": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Dashboard.cs",
-              "RelativeToolTip": "dental_sys\\Dashboard.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T10:57:57.692Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Form1.cs",
-              "RelativeDocumentMoniker": "dental_sys\\Form1.cs",
-              "ToolTip": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Form1.cs",
-              "RelativeToolTip": "dental_sys\\Form1.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAEwCAAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T09:30:11.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Form1.cs",
-              "RelativeDocumentMoniker": "dental_sys\\Form1.cs",
-              "ToolTip": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c-ui-design\\dental_sys\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\dental-system-c-ui-design\\dental_sys\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T09:30:04.752Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dashboard.cs [Design]",
-              "DocumentMoniker": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c\\dental_sys\\Dashboard.cs",
-              "RelativeDocumentMoniker": "dental_sys\\Dashboard.cs",
-              "ToolTip": "D:\\myworkspace\\QLNhaKhoa2025\\dental-system-c-ui-design\\dental_sys\\Dashboard.cs [Design]",
-              "RelativeToolTip": "..\\dental-system-c-ui-design\\dental_sys\\Dashboard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T09:28:13.387Z"
             }
           ]
         }
