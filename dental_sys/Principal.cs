@@ -49,7 +49,7 @@ namespace dental_sys
 
         private void guna2Button3_Click(object sender, EventArgs e)
         {
-            label_val.Text = "Patients List";
+            label_val.Text = "Danh sách bệnh nhân";
             guna2PictureBox_val.Image = Properties.Resources.person__1_;
             container(new Patient());
         }
@@ -69,6 +69,24 @@ namespace dental_sys
         private void guna2Button8_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void btn_LichHen_Click(object sender, EventArgs e)
+        {
+            label_val.Text = "Lịch Hẹn";
+            guna2PictureBox_val.Image = Properties.Resources.chat__1_;
+            container(new Calendar());
+        }
+
+        private void guna2ControlBox1_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void guna2CircleButton1_Click(object sender, EventArgs e)
+        {
+            CreateAppointment createAppointment = new CreateAppointment();
+            createAppointment.Show();
         }
     }
 }

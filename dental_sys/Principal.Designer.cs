@@ -42,7 +42,7 @@
             this.guna2Button5 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Button4 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Button3 = new Guna.UI2.WinForms.Guna2Button();
-            this.guna2Button2 = new Guna.UI2.WinForms.Guna2Button();
+            this.btn_LichHen = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.guna2Panel_top = new Guna.UI2.WinForms.Guna2Panel();
@@ -78,7 +78,7 @@
             this.guna2Panel1.Controls.Add(this.guna2Button5);
             this.guna2Panel1.Controls.Add(this.guna2Button4);
             this.guna2Panel1.Controls.Add(this.guna2Button3);
-            this.guna2Panel1.Controls.Add(this.guna2Button2);
+            this.guna2Panel1.Controls.Add(this.btn_LichHen);
             this.guna2Panel1.Controls.Add(this.guna2Button1);
             this.guna2Panel1.Controls.Add(this.guna2PictureBox1);
             this.guna2Panel1.Dock = System.Windows.Forms.DockStyle.Left;
@@ -275,25 +275,26 @@
             this.guna2Button3.TextOffset = new System.Drawing.Point(8, 0);
             this.guna2Button3.Click += new System.EventHandler(this.guna2Button3_Click);
             // 
-            // guna2Button2
+            // btn_LichHen
             // 
-            this.guna2Button2.CustomBorderThickness = new System.Windows.Forms.Padding(0, 0, 0, 8);
-            this.guna2Button2.FillColor = System.Drawing.Color.Transparent;
-            this.guna2Button2.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button2.ForeColor = System.Drawing.Color.Black;
-            this.guna2Button2.HoverState.BorderColor = System.Drawing.Color.Navy;
-            this.guna2Button2.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(12)))), ((int)(((byte)(83)))), ((int)(((byte)(251)))));
-            this.guna2Button2.HoverState.ForeColor = System.Drawing.Color.White;
-            this.guna2Button2.HoverState.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image7")));
-            this.guna2Button2.Image = ((System.Drawing.Image)(resources.GetObject("guna2Button2.Image")));
-            this.guna2Button2.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.guna2Button2.ImageOffset = new System.Drawing.Point(8, 0);
-            this.guna2Button2.Location = new System.Drawing.Point(0, 131);
-            this.guna2Button2.Name = "guna2Button2";
-            this.guna2Button2.Size = new System.Drawing.Size(205, 40);
-            this.guna2Button2.TabIndex = 2;
-            this.guna2Button2.Text = "Lịch Hẹn";
-            this.guna2Button2.TextOffset = new System.Drawing.Point(8, 0);
+            this.btn_LichHen.CustomBorderThickness = new System.Windows.Forms.Padding(0, 0, 0, 8);
+            this.btn_LichHen.FillColor = System.Drawing.Color.Transparent;
+            this.btn_LichHen.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_LichHen.ForeColor = System.Drawing.Color.Black;
+            this.btn_LichHen.HoverState.BorderColor = System.Drawing.Color.Navy;
+            this.btn_LichHen.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(12)))), ((int)(((byte)(83)))), ((int)(((byte)(251)))));
+            this.btn_LichHen.HoverState.ForeColor = System.Drawing.Color.White;
+            this.btn_LichHen.HoverState.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image7")));
+            this.btn_LichHen.Image = ((System.Drawing.Image)(resources.GetObject("btn_LichHen.Image")));
+            this.btn_LichHen.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.btn_LichHen.ImageOffset = new System.Drawing.Point(8, 0);
+            this.btn_LichHen.Location = new System.Drawing.Point(0, 131);
+            this.btn_LichHen.Name = "btn_LichHen";
+            this.btn_LichHen.Size = new System.Drawing.Size(205, 40);
+            this.btn_LichHen.TabIndex = 2;
+            this.btn_LichHen.Text = "Lịch Hẹn";
+            this.btn_LichHen.TextOffset = new System.Drawing.Point(8, 0);
+            this.btn_LichHen.Click += new System.EventHandler(this.btn_LichHen_Click);
             // 
             // guna2Button1
             // 
@@ -342,7 +343,7 @@
             this.guna2Panel_top.Dock = System.Windows.Forms.DockStyle.Top;
             this.guna2Panel_top.Location = new System.Drawing.Point(205, 0);
             this.guna2Panel_top.Name = "guna2Panel_top";
-            this.guna2Panel_top.Size = new System.Drawing.Size(1003, 53);
+            this.guna2Panel_top.Size = new System.Drawing.Size(1122, 53);
             this.guna2Panel_top.TabIndex = 1;
             // 
             // label_val
@@ -371,11 +372,12 @@
             this.guna2CircleButton1.ForeColor = System.Drawing.Color.White;
             this.guna2CircleButton1.Image = ((System.Drawing.Image)(resources.GetObject("guna2CircleButton1.Image")));
             this.guna2CircleButton1.ImageSize = new System.Drawing.Size(10, 10);
-            this.guna2CircleButton1.Location = new System.Drawing.Point(800, 9);
+            this.guna2CircleButton1.Location = new System.Drawing.Point(939, 10);
             this.guna2CircleButton1.Name = "guna2CircleButton1";
             this.guna2CircleButton1.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.guna2CircleButton1.Size = new System.Drawing.Size(30, 30);
             this.guna2CircleButton1.TabIndex = 2;
+            this.guna2CircleButton1.Click += new System.EventHandler(this.guna2CircleButton1_Click);
             // 
             // guna2TextBox1
             // 
@@ -393,7 +395,7 @@
             this.guna2TextBox1.IconLeft = ((System.Drawing.Image)(resources.GetObject("guna2TextBox1.IconLeft")));
             this.guna2TextBox1.IconLeftOffset = new System.Drawing.Point(5, 0);
             this.guna2TextBox1.IconLeftSize = new System.Drawing.Size(15, 15);
-            this.guna2TextBox1.Location = new System.Drawing.Point(585, 9);
+            this.guna2TextBox1.Location = new System.Drawing.Point(733, 9);
             this.guna2TextBox1.Name = "guna2TextBox1";
             this.guna2TextBox1.PasswordChar = '\0';
             this.guna2TextBox1.PlaceholderText = "Search";
@@ -408,7 +410,7 @@
             this.guna2ControlBox3.ControlBoxType = Guna.UI2.WinForms.Enums.ControlBoxType.MinimizeBox;
             this.guna2ControlBox3.FillColor = System.Drawing.Color.Transparent;
             this.guna2ControlBox3.IconColor = System.Drawing.Color.Gray;
-            this.guna2ControlBox3.Location = new System.Drawing.Point(856, 0);
+            this.guna2ControlBox3.Location = new System.Drawing.Point(975, 0);
             this.guna2ControlBox3.Name = "guna2ControlBox3";
             this.guna2ControlBox3.Size = new System.Drawing.Size(45, 29);
             this.guna2ControlBox3.TabIndex = 2;
@@ -419,7 +421,7 @@
             this.guna2ControlBox2.ControlBoxType = Guna.UI2.WinForms.Enums.ControlBoxType.MaximizeBox;
             this.guna2ControlBox2.FillColor = System.Drawing.Color.Transparent;
             this.guna2ControlBox2.IconColor = System.Drawing.Color.Gray;
-            this.guna2ControlBox2.Location = new System.Drawing.Point(907, 0);
+            this.guna2ControlBox2.Location = new System.Drawing.Point(1026, 0);
             this.guna2ControlBox2.Name = "guna2ControlBox2";
             this.guna2ControlBox2.Size = new System.Drawing.Size(45, 29);
             this.guna2ControlBox2.TabIndex = 1;
@@ -429,10 +431,11 @@
             this.guna2ControlBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.guna2ControlBox1.FillColor = System.Drawing.Color.Transparent;
             this.guna2ControlBox1.IconColor = System.Drawing.Color.Gray;
-            this.guna2ControlBox1.Location = new System.Drawing.Point(958, 0);
+            this.guna2ControlBox1.Location = new System.Drawing.Point(1077, 0);
             this.guna2ControlBox1.Name = "guna2ControlBox1";
             this.guna2ControlBox1.Size = new System.Drawing.Size(45, 29);
             this.guna2ControlBox1.TabIndex = 0;
+            this.guna2ControlBox1.Click += new System.EventHandler(this.guna2ControlBox1_Click);
             // 
             // guna2DragControl1
             // 
@@ -445,7 +448,7 @@
             this.guna2Panel_container.Dock = System.Windows.Forms.DockStyle.Fill;
             this.guna2Panel_container.Location = new System.Drawing.Point(205, 53);
             this.guna2Panel_container.Name = "guna2Panel_container";
-            this.guna2Panel_container.Size = new System.Drawing.Size(1003, 701);
+            this.guna2Panel_container.Size = new System.Drawing.Size(1122, 701);
             this.guna2Panel_container.TabIndex = 2;
             // 
             // Principal
@@ -453,7 +456,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(245)))), ((int)(((byte)(250)))));
-            this.ClientSize = new System.Drawing.Size(1208, 754);
+            this.ClientSize = new System.Drawing.Size(1327, 754);
             this.Controls.Add(this.guna2Panel_container);
             this.Controls.Add(this.guna2Panel_top);
             this.Controls.Add(this.guna2Panel1);
@@ -487,7 +490,7 @@
         private Guna.UI2.WinForms.Guna2ControlBox guna2ControlBox2;
         private Guna.UI2.WinForms.Guna2ControlBox guna2ControlBox1;
         private Guna.UI2.WinForms.Guna2DragControl guna2DragControl1;
-        private Guna.UI2.WinForms.Guna2Button guna2Button2;
+        private Guna.UI2.WinForms.Guna2Button btn_LichHen;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox2;
         private Guna.UI2.WinForms.Guna2Button guna2Button7;
         private Guna.UI2.WinForms.Guna2Button guna2Button6;

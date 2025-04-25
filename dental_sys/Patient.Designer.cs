@@ -71,7 +71,7 @@
             this.guna2Panel1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(245)))), ((int)(((byte)(250)))));
             this.guna2Panel1.Location = new System.Drawing.Point(0, 0);
             this.guna2Panel1.Name = "guna2Panel1";
-            this.guna2Panel1.Size = new System.Drawing.Size(1011, 61);
+            this.guna2Panel1.Size = new System.Drawing.Size(1122, 61);
             this.guna2Panel1.TabIndex = 0;
             // 
             // btn_InDSBenhNhan
@@ -83,7 +83,7 @@
             this.btn_InDSBenhNhan.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.btn_InDSBenhNhan.Image = ((System.Drawing.Image)(resources.GetObject("btn_InDSBenhNhan.Image")));
             this.btn_InDSBenhNhan.ImageSize = new System.Drawing.Size(14, 14);
-            this.btn_InDSBenhNhan.Location = new System.Drawing.Point(719, 17);
+            this.btn_InDSBenhNhan.Location = new System.Drawing.Point(844, 14);
             this.btn_InDSBenhNhan.Name = "btn_InDSBenhNhan";
             this.btn_InDSBenhNhan.Size = new System.Drawing.Size(36, 28);
             this.btn_InDSBenhNhan.TabIndex = 6;
@@ -99,7 +99,7 @@
             this.btn_BoLoc.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.btn_BoLoc.ImageOffset = new System.Drawing.Point(3, 0);
             this.btn_BoLoc.ImageSize = new System.Drawing.Size(12, 12);
-            this.btn_BoLoc.Location = new System.Drawing.Point(761, 17);
+            this.btn_BoLoc.Location = new System.Drawing.Point(886, 14);
             this.btn_BoLoc.Name = "btn_BoLoc";
             this.btn_BoLoc.Size = new System.Drawing.Size(99, 28);
             this.btn_BoLoc.TabIndex = 5;
@@ -112,7 +112,7 @@
             this.guna2Button1.FillColor = System.Drawing.Color.Transparent;
             this.guna2Button1.Font = new System.Drawing.Font("Bahnschrift Condensed", 9F, System.Drawing.FontStyle.Bold);
             this.guna2Button1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.guna2Button1.Location = new System.Drawing.Point(866, 17);
+            this.guna2Button1.Location = new System.Drawing.Point(991, 14);
             this.guna2Button1.Name = "guna2Button1";
             this.guna2Button1.Size = new System.Drawing.Size(99, 28);
             this.guna2Button1.TabIndex = 4;
@@ -179,7 +179,7 @@
             this.guna2Button4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
             this.guna2Button4.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
             this.guna2Button4.HoverState.ForeColor = System.Drawing.Color.White;
-            this.guna2Button4.Location = new System.Drawing.Point(881, 647);
+            this.guna2Button4.Location = new System.Drawing.Point(1006, 650);
             this.guna2Button4.Name = "guna2Button4";
             this.guna2Button4.Size = new System.Drawing.Size(84, 30);
             this.guna2Button4.TabIndex = 1;
@@ -195,7 +195,7 @@
             this.guna2Button5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
             this.guna2Button5.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
             this.guna2Button5.HoverState.ForeColor = System.Drawing.Color.White;
-            this.guna2Button5.Location = new System.Drawing.Point(791, 647);
+            this.guna2Button5.Location = new System.Drawing.Point(916, 650);
             this.guna2Button5.Name = "guna2Button5";
             this.guna2Button5.Size = new System.Drawing.Size(84, 30);
             this.guna2Button5.TabIndex = 2;
@@ -330,7 +330,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(245)))), ((int)(((byte)(250)))));
-            this.ClientSize = new System.Drawing.Size(1011, 701);
+            this.ClientSize = new System.Drawing.Size(1122, 701);
             this.Controls.Add(this.guna2DataGridView1);
             this.Controls.Add(this.guna2Button5);
             this.Controls.Add(this.guna2Button4);

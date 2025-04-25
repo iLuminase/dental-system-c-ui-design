@@ -35,15 +35,15 @@ D:\myworkspace\QLNhaKhoa2025\dental-system-c-ui-design\dental_sys\obj\Debug\dent
 D:\myworkspace\QLNhaKhoa2025\dental-system-c-ui-design\dental_sys\obj\Debug\dental_sys.exe
 D:\myworkspace\QLNhaKhoa2025\dental-system-c-ui-design\dental_sys\obj\Debug\dental_sys.pdb
 D:\myworkspace\QLNhaKhoa2025\dental-system-c-ui-design\dental_sys\bin\Debug\Guna.UI2.dll
-D:\myworkspace\QLNhaKhoa2025\dental-system-c\dental_sys\bin\Debug\dental_sys.exe.config
 D:\myworkspace\QLNhaKhoa2025\dental-system-c\dental_sys\bin\Debug\dental_sys.exe
-D:\myworkspace\QLNhaKhoa2025\dental-system-c\dental_sys\bin\Debug\dental_sys.pdb
+D:\myworkspace\QLNhaKhoa2025\dental-system-c\dental_sys\bin\Debug\Guna.UI2.dll
+D:\myworkspace\QLNhaKhoa2025\dental-system-c\dental_sys\bin\Debug\dental_sys.exe.config
 D:\myworkspace\QLNhaKhoa2025\dental-system-c\dental_sys\bin\Debug\EntityFramework.dll
 D:\myworkspace\QLNhaKhoa2025\dental-system-c\dental_sys\bin\Debug\EntityFramework.SqlServer.dll
-D:\myworkspace\QLNhaKhoa2025\dental-system-c\dental_sys\bin\Debug\Guna.UI2.dll
 D:\myworkspace\QLNhaKhoa2025\dental-system-c\dental_sys\bin\Debug\EntityFramework.xml
 D:\myworkspace\QLNhaKhoa2025\dental-system-c\dental_sys\bin\Debug\EntityFramework.SqlServer.xml
 D:\myworkspace\QLNhaKhoa2025\dental-system-c\dental_sys\obj\Debug\dental_sys.csproj.AssemblyReference.cache
+D:\myworkspace\QLNhaKhoa2025\dental-system-c\dental_sys\obj\Debug\dental_sys.Calendar.resources
 D:\myworkspace\QLNhaKhoa2025\dental-system-c\dental_sys\obj\Debug\dental_sys.Dashboard.resources
 D:\myworkspace\QLNhaKhoa2025\dental-system-c\dental_sys\obj\Debug\dental_sys.Form1.resources
 D:\myworkspace\QLNhaKhoa2025\dental-system-c\dental_sys\obj\Debug\dental_sys.Loading.resources
@@ -56,3 +56,8 @@ D:\myworkspace\QLNhaKhoa2025\dental-system-c\dental_sys\obj\Debug\dental_sys.csp
 D:\myworkspace\QLNhaKhoa2025\dental-system-c\dental_sys\obj\Debug\dental_sys.csproj.Up2Date
 D:\myworkspace\QLNhaKhoa2025\dental-system-c\dental_sys\obj\Debug\dental_sys.exe
 D:\myworkspace\QLNhaKhoa2025\dental-system-c\dental_sys\obj\Debug\dental_sys.pdb
+D:\myworkspace\QLNhaKhoa2025\dental-system-c\dental_sys\bin\Debug\dental_sys.pdb
+D:\myworkspace\QLNhaKhoa2025\dental-system-c\dental_sys\obj\Debug\dental_sys.dayBlock.resources
+D:\myworkspace\QLNhaKhoa2025\dental-system-c\dental_sys\obj\Debug\dental_sys.UCBlank.resources
+D:\myworkspace\QLNhaKhoa2025\dental-system-c\dental_sys\obj\Debug\dental_sys.calendarDetail.resources
+D:\myworkspace\QLNhaKhoa2025\dental-system-c\dental_sys\obj\Debug\dental_sys.CreateAppointment.resources
